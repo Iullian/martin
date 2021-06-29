@@ -1,0 +1,23 @@
+{
+	"ip":"LilLOADED.aternos.me",
+	"port": "25565",
+	"name": "Martinel"
+    },
+
+    "message-on-death": {
+        "enable": false, 
+        "delay": 10000,
+        "message": "I died!"
+    },
+
+    "viewer": {
+        "enable": true,
+        "first-person": false,
+        "view-distance": 6
+    },
+
+    "pvp": {
+        "enable": true,
+        "attack-players": false,
+        "attack-endermans": false
+}
